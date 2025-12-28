@@ -1,3 +1,11 @@
+'''
+----------------------------------------
+❤️ Heart Animation using Python Turtle
+Created by: Aquil
+GitHub: https://github.com/ajajmahmudaquil
+----------------------------------------
+'''
+
 import math
 from turtle import *
 
